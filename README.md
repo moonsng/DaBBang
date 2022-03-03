@@ -16,3 +16,8 @@
 ## 디자인 패턴
  구글에서는 bloc 패턴을 추천하지만, 이는 주로 대규모 앱에 적합하며, 나는 구현이 좀 더 간단한 provider 패턴을 적용했다.
  공식문서 : https://pub.dev/packages/provider
+
+
+###참고블로그
+
+https://beomseok95.tistory.com/322
