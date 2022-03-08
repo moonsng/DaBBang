@@ -27,3 +27,6 @@ https://velog.io/@lshjh4848/flutterhttpexmaplewith
 
 네이버 지도 넣기
 https://ahang.tistory.com/21
+
+mvvm패턴 적용
+https://funncy.github.io/flutter/2020/08/21/flutter-mvvm/
